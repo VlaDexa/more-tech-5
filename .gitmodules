@@ -1,0 +1,8 @@
+[submodule "vtb_hack"]
+	path = vtb_hack
+	url = git@github.com:mixa000012/vtb_hack.git
+	branch = master
+[submodule "more-tech-5-front"]
+	path = more-tech-5-front
+	url = git@github.com:VlaDexa/more-tech-5-front.git
+	branch = main
